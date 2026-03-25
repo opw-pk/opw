@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0f0f0f"></stop>
+      <stop offset="100%" stop-color="#111111"></stop>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bgGrad)"></rect>
+  
+  <!-- Logo -->
+  <text x="50%" y="40%" text-anchor="middle" font-size="100" fill="#00e0ff" font-family="Inter, sans-serif" font-weight="700">OPW</text>
+  
+  <!-- Tagline -->
+  <text x="50%" y="60%" text-anchor="middle" font-size="48" fill="#ffffff" font-family="Inter, sans-serif">
+    Buy &amp; Launch Instantly
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="50%" y="70%" text-anchor="middle" font-size="32" fill="#cccccc" font-family="Inter, sans-serif">
+    Professionally Designed &amp; Optimized
+  </text>
+</svg>
